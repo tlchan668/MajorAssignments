@@ -1,0 +1,11 @@
+C:\repos\MajorAssignmentSolution\MajorAssignment\bin\Debug\netcoreapp3.1\MajorAssignment.exe
+C:\repos\MajorAssignmentSolution\MajorAssignment\bin\Debug\netcoreapp3.1\MajorAssignment.deps.json
+C:\repos\MajorAssignmentSolution\MajorAssignment\bin\Debug\netcoreapp3.1\MajorAssignment.runtimeconfig.json
+C:\repos\MajorAssignmentSolution\MajorAssignment\bin\Debug\netcoreapp3.1\MajorAssignment.runtimeconfig.dev.json
+C:\repos\MajorAssignmentSolution\MajorAssignment\bin\Debug\netcoreapp3.1\MajorAssignment.dll
+C:\repos\MajorAssignmentSolution\MajorAssignment\bin\Debug\netcoreapp3.1\MajorAssignment.pdb
+C:\repos\MajorAssignmentSolution\MajorAssignment\obj\Debug\netcoreapp3.1\MajorAssignment.csprojAssemblyReference.cache
+C:\repos\MajorAssignmentSolution\MajorAssignment\obj\Debug\netcoreapp3.1\MajorAssignment.AssemblyInfoInputs.cache
+C:\repos\MajorAssignmentSolution\MajorAssignment\obj\Debug\netcoreapp3.1\MajorAssignment.AssemblyInfo.cs
+C:\repos\MajorAssignmentSolution\MajorAssignment\obj\Debug\netcoreapp3.1\MajorAssignment.dll
+C:\repos\MajorAssignmentSolution\MajorAssignment\obj\Debug\netcoreapp3.1\MajorAssignment.pdb
